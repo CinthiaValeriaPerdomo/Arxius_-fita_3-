@@ -1,0 +1,6 @@
+touch comandes.txt
+chmod 666 comandes.txt
+Valeria,Pa,Llet,Ous,Formatge
+Valeria,Pa,Llet,Ous,Formatge
+
+Anna,Llet,Ous
